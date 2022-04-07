@@ -7,4 +7,10 @@ Hola ✌️,  soy el explorer Naye y este es mi blog personal donde compartiré 
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectativas en este proyecto son: 
+- Aprender de Git y GitHub
+- Aprender de backend
+- Aplicar mis conocimientos
+- Conocer y compartir :)
+
 🚀
