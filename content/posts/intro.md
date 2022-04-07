@@ -12,21 +12,21 @@ Sabemos que el desarrollador de software debe tener ciertas habilidades, actitud
 
 Algunas de las habilidades, actitudes y aptitudes que deben fomentar son:
 
-- Ser paciente
-- Ser honesto 
-- Ser perseverante
-- Pasión por su trabajo
-- Estar en aprendizaje continuo
-- Mostrar calidad en su producción 
-- Trabajar en equipo 
-- Empatizar con el cliente
-- Tener una comunicación asertiva
-- Control y organización 
-- Capacidad de analítica
-- Toma de decisiones 
-- Resolución de problemas
+- Ser paciente.
+- Ser honesto.
+- Ser perseverante.
+- Pasión por su trabajo.
+- Estar en aprendizaje continuo.
+- Mostrar calidad en su producción. 
+- Trabajar en equipo. 
+- Empatizar con el cliente.
+- Tener una comunicación asertiva.
+- Control y organización. 
+- Capacidad de analítica.
+- Toma de decisiones. 
+- Resolución de problemas.
 
-Por lo tanto, el desarrollo de software va más allá de solo conocer buenas prácticas y tecnologías. 
+Por lo tanto, el desarrollo de software va más allá de solo conocer prácticas, programas y tecnologías. 
 
 
 Gracias por leerme, te espero en mi siguiente post. 
