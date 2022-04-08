@@ -29,5 +29,5 @@ Algunas de las habilidades, actitudes y aptitudes que deben fomentar son:
 Por lo tanto, el desarrollo de software va más allá de solo conocer prácticas, programas y tecnologías. 
 
 
-Gracias por leerme, te espero en mi siguiente post. 
+Gracias por leerme, te espero en mi siguiente post. 🚀
 
