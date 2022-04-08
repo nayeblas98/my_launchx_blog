@@ -2,20 +2,17 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "About Me"
 ---
 
 ## Who am I
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy ingeniería industrial y quiero iniciar conocer más acerca del mundo Tech. 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+> Soy una personas que me gusta salir de mi zona de comfort y me gusta estar aprendiendo nuevas cosas.
+> Me gusta aprender idiomas, sé inglés y algo de fránces.
+> Amo viajar y conocer nuevas culturas. 
+
 
